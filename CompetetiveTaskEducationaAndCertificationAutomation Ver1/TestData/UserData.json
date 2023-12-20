@@ -1,0 +1,173 @@
+﻿[
+  //Add new record with all fields 0
+  {
+    "UniversityName": "Mahatma Gandhi",
+    "CountryName": "India",
+    "Title": "M.B.A",
+    "Degreename": "Computer Science",
+    "YearOfGraduation": "2023"
+  },
+
+  //1
+  {
+    "UniversityName": "University of Queensland",
+    "CountryName": "Australia",
+    "Title": "M.B.A",
+    "DegreeName": "Business Administration",
+    "YearOfGraduation": "2020"
+  },
+
+  //2
+  {
+    "UniversityName": "#$%^&*(@+",
+    "CountryName": "Spain",
+    "Title": "M.A",
+    "DegreeName": "&*^%$#@",
+    "YearOfGraduation": "2008"
+  },
+
+  //3
+  {
+    "UniversityName": "123456",
+    "CountryName": "United Kingdom",
+    "Title": "B.Tech",
+    "DegreeName": "456789",
+    "YearOfGraduation": "2008"
+  },
+
+  // 4 null values
+  {
+    "UniversityName": "",
+    "CountryName": "",
+    "Title": "",
+    "DegreeName": "",
+    "YearOfGraduation": ""
+  },
+
+  //  5 Null data in Textbox fields
+  {
+    "UniversityName": "",
+    "CountryName": "India",
+    "Title": "M.Tech",
+    "DegreeName": "",
+    "YearOfGraduation": "2005"
+  },
+
+  //   6Null data in dropdown fields
+  {
+    "UniversityName": "Oxford",
+    "CountryName": "",
+    "Title": "",
+    "DegreeName": "mathematics",
+    "YearOfGraduation": ""
+  },
+
+  //  7  Existing values for Uni and Degree
+  {
+    "UniversityName": "University of Queensland",
+    "CountryName": "India",
+    "Title": "Associate",
+    "DegreeName": "Business Administration",
+    "YearOfGraduation": "2022"
+  },
+
+  //8 Space as input
+  {
+    "UniversityName": "        ",
+    "CountryName": "Pakistan",
+    "Title": "Associate",
+    "Degreename": "            ",
+    "YearOfGraduation": "2020"
+  },
+
+
+  //  9 long values
+  {
+    "UniversityName": "qwertyuioplkjhgfdsazxcvbnmlkiouytredfghjnvffrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrttrewqasdfghjklp",
+    "CountryName": "Turkey",
+    "Title": "PHD",
+    "Degreename": "redfghjnvffrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrqwertyuioplkjhgfdsazxcvbnmlkiouytredfghjnvffrtredfghjnvffrrrrrrrrrrrrrr",
+    "YearOfGraduation": "2021"
+  },
+
+  //  10 Update
+  //Edit all values
+
+  {
+    "UniversityName": "Griffith",
+    "CountryName": "Sweden",
+    "Title": "PHD",
+    "DegreeName": "Science",
+    "YearOfGraduation": "2017"
+  },
+  //11
+
+  {
+    "UniversityName": "Manchester",
+    "CountryName": "Sweden",
+    "Title": "PHD",
+    "DegreeName": "Computer Science",
+    "YearOfGraduation": "2017"
+  },
+
+
+  //12
+  {
+    "UniversityName": "Manchester",
+    "CountryName": "United Kingdom",
+    "Title": "M.B.A",
+    "Degreename": "Computer Science",
+    "YearOfGraduation": "2023"
+  },
+
+  //13
+  {
+    "UniversityName": "@#$%^&*()+",
+    "CountryName": "Spain",
+    "Title": "M.A",
+    "DegreeName": "+)(*&^%$##@",
+    "YearOfGraduation": "2008"
+  },
+
+  //14
+  {
+    "UniversityName": "67854932",
+    "CountryName": "Spain",
+    "Title": "M.A",
+    "DegreeName": "56798765",
+    "YearOfGraduation": "2008"
+  },
+
+  //15
+  {
+    "UniversityName": "Wyong",
+    "CountryName": "Australia",
+    "Title": "M.A",
+    "DegreeName": "PHD",
+    "YearOfGraduation": "2009"
+  },
+
+  //16
+  {
+    "UniversityName": "Wollongong",
+    "CountryName": "Australia",
+    "Title": "M.A",
+    "Degreename": "Computer Science",
+    "YearOfGraduation": "2021"
+  },
+
+  
+  
+  //   17 Null data in dropdown fields
+  {
+    "UniversityName": "",
+    "CountryName": "Turkey",
+    "Title": "Associate",
+    "DegreeName": "",
+    "YearOfGraduation": "2010"
+  }
+
+       
+   
+]
+
